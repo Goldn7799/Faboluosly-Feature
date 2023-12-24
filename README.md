@@ -4,7 +4,9 @@ Faboluosly Optimized Wih More Features, better ui and more
 > This is a Minecraft ModPack. This ModPack Support *Crack* Minecraft? **YES**
 
 > [!NOTE]
-> Using Optimization ModPack Based On **Faboluosly Optimized** [ [Modrinth](https://modrinth.com/modpack/fabulously-optimized) | [GiHub](https://github.com/Fabulously-Optimized/fabulously-optimized) ]
+> Using Optimization ModPack Based On **Faboluosly Optimized**
+
+[![Built on Fabulously Optimized](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_64h.png)](https://download.fo)
 
 # How To Install
 Download mods and Extrax the zip file, copy all inside Extraxed Folder to ```.minecraft``` on ```%appdata%\.minecraft``` on windows or ```/home/$USER/.minecraft``` on linux or if you using prism launcher just copy to ```.minecraft``` on instance folder.
@@ -36,7 +38,9 @@ Download mods and Extrax the zip file, copy all inside Extraxed Folder to ```.mi
 > Some disclaimers are on [Faboluosly Optimized](https://github.com/Fabulously-Optimized/fabulously-optimized) github page.
 
 > [!NOTE]
-> Using Optimization ModPack Based On **Faboluosly Optimized** [ [Modrinth](https://modrinth.com/modpack/fabulously-optimized) | [GiHub](https://github.com/Fabulously-Optimized/fabulously-optimized) ]
+> Using Optimization ModPack Based On **Faboluosly Optimized**
+
+[![Download from CurseForge](https://cf.way2muchnoise.eu/full_fabulously-optimized_downloads%20on%20CurseForge.svg?badge_style=for_the_badge)](https://download.fo/curseforge) [![Modrinth](https://img.shields.io/modrinth/dt/fabulously-optimized?logo=modrinth&color=darkgreen&label=Download%20from%20Modrinth&style=for-the-badge)](https://download.fo/modrinth)
 
 > [!CAUTION]
 > NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
