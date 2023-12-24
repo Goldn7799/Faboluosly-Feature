@@ -20,6 +20,7 @@ Download mods and Extrax the zip file, copy all inside Extraxed Folder to ```.mi
 > #### CHANGELOG :
 > - Use Base Faboluosly Optimized 5.6.4
 > - Add Some Tools And Feature Mod's, Total **105 Mod's** *(80% Mod's for Optimization)*
+> - Replace **More Chat History** with **Chat Patches**
 > - Update Some Config
 
 > [!WARNING]
