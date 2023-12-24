@@ -3,6 +3,9 @@ Faboluosly Optimized Wih More Features, better ui and more
 > [!IMPORTANT]
 > This is a Minecraft ModPack. This ModPack Support *Crack* Minecraft? **YES**
 
+> [!NOTE]
+> Using Optimization ModPack Based On **Faboluosly Optimized** [Modrinth](https://modrinth.com/modpack/fabulously-optimized) [GiHub](https://github.com/Fabulously-Optimized/fabulously-optimized) 
+
 # How To Install
 Download mods and Extrax the zip file, copy all inside Extraxed Folder to .minecraft on ```%appdata%\.minecraft``` on windows or ```/home/$USER/.minecraft``` on linux or if you using prism launcher just copy to ```.minecraft``` on instance folder.
 
