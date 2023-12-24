@@ -30,3 +30,13 @@ Download mods and Extrax the zip file, copy all inside Extraxed Folder to ```.mi
 
 > [!WARNING]
 > Use Fabric **V0.15.3** ***[REQUIRED]*** And Minecraft **V1.20.2** ***[REQUIRED]***
+
+# Disclaimer
+> [!WARNING]
+> Some disclaimers are on [Faboluosly Optimized](https://github.com/Fabulously-Optimized/fabulously-optimized) github page.
+
+> [!NOTE]
+> Using Optimization ModPack Based On **Faboluosly Optimized** [ [Modrinth](https://modrinth.com/modpack/fabulously-optimized) | [GiHub](https://github.com/Fabulously-Optimized/fabulously-optimized) ]
+
+> [!CAUTION]
+> NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
