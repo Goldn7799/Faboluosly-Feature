@@ -1,7 +1,7 @@
 # Faboluosly-Feature
 Faboluosly Optimized Wih More Features, better ui and more
 > [!TIP]
-> This is a Minecraft ModPack
+> This is a Minecraft ModPack. This ModPack Support *Crack* Minecraft? **YES**
 
 # How To Install
 Download mods and Extrax the zip file, copy all inside Extraxed Folder to .minecraft on ```%appdata%\.minecraft``` on windows or ```/home/$USER/.minecraft``` on linux or if you using prism launcher just copy to ```.minecraft``` on instance folder.
