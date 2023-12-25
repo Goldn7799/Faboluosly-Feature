@@ -17,6 +17,18 @@ Download mods and Extrax the zip file, copy all inside Extraxed Folder to ```.mi
 # Download Area
 > [!TIP]
 > ***Another Version*** [Download Here](https://www.mediafire.com/folder/181n7119s94mq/ModPack+Optimized+Minecraft)
+
+### *[-]* V1.0.3-R1
+> [!NOTE]
+> You Can Download The ModPack [here](https://www.mediafire.com/file/dzg2y5iczpfzvk5/Faboluosly-Feature_V1.0.3-R1_1.20.2.zip/file)
+> #### CHANGELOG :
+> - Use Base Faboluosly Optimized 5.6.4
+> - Add Some Tools And Feature Mod's, Total **112 Mod's** *(78% Mod's for Optimization)*
+> - More Feature with Essentials GUI
+> - More Tools Mod's
+> - Update option.txt
+> - Update config
+
 ### *[-]* V1.0.2-R2
 > [!NOTE]
 > You Can Download The ModPack [here](https://www.mediafire.com/file/rrpenzhoz8b2ed2/Faboluosly-Feature_V1.0.2-R2_1.20.2.zip/file)
