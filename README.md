@@ -9,6 +9,9 @@ Faboluosly Optimized Wih More Features, better ui and more
 [![Built on Fabulously Optimized](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_64h.png)](https://download.fo)
 
 # How To Install
+> [!NOTE]
+> First, you must install Fabric Loader on your minecraft, you can download from [here](https://fabricmc.net/use/installer/). User version of Minecraft and Fabric according to requirements
+
 Download mods and Extrax the zip file, copy all inside Extraxed Folder to ```.minecraft``` on ```%appdata%\.minecraft``` on windows or ```/home/$USER/.minecraft``` on linux or if you using prism launcher just copy to ```.minecraft``` on instance folder.
 
 # Download Area
