@@ -18,6 +18,15 @@ Download mods and Extrax the zip file, copy all inside Extraxed Folder to ```.mi
 > [!TIP]
 > ***Another Version*** [Download Here](https://www.mediafire.com/folder/181n7119s94mq/ModPack+Optimized+Minecraft)
 
+### *[-]* V1.1.0
+> [!NOTE]
+> You Can Download The ModPack [here](https://www.mediafire.com/file/97vffkwka854obr/Faboluosly-Feature_V1.1.0_1.20.2.zip/file)
+> #### CHANGELOG :
+> - Use Base Faboluosly Optimized 5.6.5
+> - Updated base Faboluosly Optimized
+> - Update Mod's, Total **109 Mod's** *(80% Mod's for Optimization)*
+> - Fixed JourneyMap Config not loaded
+
 ### *[-]* V1.0.3-R3
 > [!NOTE]
 > You Can Download The ModPack [here](https://www.mediafire.com/file/ww21a683vrkb5ck/Faboluosly-Feature_V1.0.3-R3_1.20.2.zip/file)
