@@ -20,7 +20,7 @@ Download mods and Extrax the zip file, copy all inside Extraxed Folder to ```.mi
 
 ### *[-]* V1.2.0
 > [!NOTE]
-> You Can Download The ModPack [here](https://www.mediafire.com/file/97vffkwka854obr/Faboluosly-Feature_V1.1.0_1.20.2.zip/file)
+> You Can Download The ModPack [here](https://www.mediafire.com/file/13vshg0rfsg7kbv/Faboluosly-Feature_V1.2.0_1.20.2.zip/file)
 > #### CHANGELOG :
 > - Use Base Faboluosly Optimized 5.6.6
 > - Updated base Faboluosly Optimized
